@@ -6,6 +6,7 @@
 
 
 ### Create K8s cluster in mcs and download kubeconfig
+#### you will need to activate cluster autoscaler feature during setup of cluster
 Instruction: https://mcs.mail.ru/help/ru_RU/k8s-start/create-k8s
 
 Kubernetes as a Service: https://mcs.mail.ru/app/services/containers/add/
